@@ -1,2 +1,4 @@
 Hi 
-Welcome to learn about Github
+Welcome to learn about GitHub
+
+Hello
