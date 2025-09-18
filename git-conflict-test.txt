@@ -1,4 +1,9 @@
 Hi 
 Welcome to learn about GitHub
 
-Hello
+This is the test line for Git conflict: main branch
+
+Hi mate this is test[!]
+Have added new modification
+
+This is the test line for Git conflict: main branch
